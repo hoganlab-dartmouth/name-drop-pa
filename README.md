@@ -3,12 +3,16 @@
 An R package developed for quick conversion between orthologs of Pseudomonas aeruginosa strains.
 
 Installation will require devtools. In R:
+
 install.packages("devtools")
+
 library(devtools)
-install_github("hoganlab-dartmouth/PAannotation")
+
+install_github("hoganlab-dartmouth/name-drop-pa")
 
 
 Originally developed:
+
 ##Name-Drop-Pa
 
 # Georgia Doing 2020
@@ -24,6 +28,7 @@ Pseudomonas_aeruginosa_UCBPP-PA14_109_orthologs 	07-09-18
 
 
 Udpdate to:
+
 ##PAannotation
 
 # Jay Goddard 2024
