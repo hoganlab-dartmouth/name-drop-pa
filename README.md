@@ -1,4 +1,4 @@
-## PAannotation
+# PAannotation
 
 An R package developed for quick conversion between orthologs of Pseudomonas aeruginosa strains.
 
