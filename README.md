@@ -37,7 +37,7 @@ Pseudomonas_aeruginosa_UCBPP-PA14_109_orthologs 	07-09-18
 
 
 
-## Udpdated to:
+## Updated to:
 
 ## PAannotation
 
