@@ -10,6 +10,8 @@ library(devtools)
 
 install_github("hoganlab-dartmouth/name-drop-pa")
 
+library(PAannotation)
+
 
 Originally developed:
 
