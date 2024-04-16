@@ -1,0 +1,12 @@
+Package: PAannotation
+Title: Pseudomonas strain gene ID conversions
+Version: 0.0.1.0000
+Authors@R: 
+    c(
+    person("Jay", "Goddard", , "jay.goddard@dartmouth.edu", role = c("aut")),
+    person("Georgia", "Doing", , "georgia.doing@gmail.com", role = c("cre")))
+Description: A small set of functions to convert between gene names in Pseudomonas. Particularly PAO1 numbers and PA14 number interconversion, but also compatible with other species/strains curated in pseudomonas.com
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
