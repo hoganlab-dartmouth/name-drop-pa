@@ -46,7 +46,7 @@ Pseudomonas_aeruginosa_UCBPP-PA14_109_orthologs 	07-09-18
 Updated scripts to utilize most recent version of annotations available from pseudomonas.com (update from Db 17 to Db 22)
 
 
-New functions added for PA14 naming convention changes, and to enable conversion of gene IDs from strains other Pseudomonas aeruginosa PAO1 and Pseudomonas aeruginosa PA14.
+New functions added for PA14 naming convention changes, and to enable conversion of orthologous gene IDs from strains other Pseudomonas aeruginosa PAO1 and Pseudomonas aeruginosa PA14.
 This includes support for conversion of "old" PA14_##### gene IDs and "new" PA14_RS##### gene IDs now seen in Refseq and Genbank annotations
 
 
