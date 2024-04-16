@@ -4,6 +4,7 @@ An R package developed for quick conversion between orthologs of Pseudomonas aer
 
 Installation will require devtools. In R:
 
+```
 install.packages("devtools")
 
 library(devtools)
@@ -11,7 +12,7 @@ library(devtools)
 install_github("hoganlab-dartmouth/name-drop-pa")
 
 library(PAannotation)
-
+```
 
 
 ## Originally developed:
