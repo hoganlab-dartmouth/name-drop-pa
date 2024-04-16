@@ -14,12 +14,10 @@ library(PAannotation)
 
 
 
+## Originally developed:
 
 
-Originally developed:
-
-
-##Name-Drop-Pa
+## Name-Drop-Pa
 
 # Georgia Doing 2020
 
@@ -38,10 +36,9 @@ Pseudomonas_aeruginosa_UCBPP-PA14_109_orthologs 	07-09-18
 
 
 
-Udpdated to:
+## Udpdated to:
 
-
-##PAannotation
+## PAannotation
 
 # Jay Goddard 2024
 
