@@ -14,6 +14,19 @@ install_github("hoganlab-dartmouth/name-drop-pa")
 library(PAannotation)
 ```
 
+Once installed and loaded into your R session, you can see all functions available with 
+
+```
+lsf.str("package:PAannotation")
+```
+
+To see the documentation of any function, ie. `PAO1_to_PA14`, run:
+
+```
+?PAO1_to_PA14
+```
+
+
 
 ## Originally developed:
 
